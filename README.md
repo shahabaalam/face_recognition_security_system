@@ -144,12 +144,6 @@ If it doesn’t open automatically, copy-paste the URL into your browser.
 
 ---
 
-## 📄 License
-
-This project is open-source under the **MIT License**.
-
----
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome.
@@ -157,11 +151,3 @@ Contributions, issues, and feature requests are welcome.
 Fork the repo, create a branch, make your changes, and submit a pull request.
 
 ---
-
-## 📬 Contact
-
-Developed by Shahaba Alam
-
-📧 Email: your.email@example.com
-
-🌐 GitHub: face_recognition_security_system
