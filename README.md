@@ -1,8 +1,6 @@
 ---
-
 A **Streamlit-based multi-authentication security system** that integrates **Face Recognition**, **PIN Authentication**, and **RFID (Demo Mode)** for secure access control.
 Includes an **Admin Control Panel** for appliance management, logging, simulation controls, and fault tolerance features.
-
 ---
 
 ## 📌 Features
@@ -20,14 +18,13 @@ Includes an **Admin Control Panel** for appliance management, logging, simulatio
 
 ## 📸 Screenshots
 
-A preview of the application's user interface.
+| ![Home screen](screenshots/home.png) | ![Control panel](screenshots/ap_control.png) |
+| :----------------------------------: | :------------------------------------------: |
+| _Main authentication & status view_  |     _Smart-home appliance control panel_     |
 
-|                                                    |                                                        |
-| :------------------------------------------------: | :----------------------------------------------------: |
-|                                                    |                                                        |
-|   _Main authentication screen with admin tools._   |  _Control panel for managing smart home appliances._   |
-|                                                    |                                                        |
-| _Dashboard showing access logs and active alerts._ | _Real-time system status including uptime and faults._ |
+| ![Access log](screenshots/access_log.png) | ![Active status](screenshots/active_status.png) |
+| :---------------------------------------: | :---------------------------------------------: |
+|          _Access-log dashboard_           |       _Real-time system status & alerts_        |
 
 ---
 
